@@ -16,6 +16,7 @@ I create things for myself or school like [ILA](https://github.com/oxypomme/ILA)
 
 - Twitter : [@OxyTom](https://twitter.com/OxyT0m8) (french only)
 - Discord : OxyTom#1831 or [join my server](https://discord.com/invite/HgFJsP) !
+- Reddit : [u/OxyTom](https://www.reddit.com/user/OxyTom)
 - <https://oxypomme.github.io/>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com/)
