@@ -8,7 +8,7 @@
 
 - :family: Birth date : 32/-15/2077
 - :metal: listener (like him :arrow_down:)
-- :heart: Preferred dev : [WildGoat07](https://github.com/WildGoat07)
+- :heart: Favorite dev : [WildGoat07](https://github.com/WildGoat07)
 - :broken_heart: Hated dev : [WildGoat07](https://github.com/WildGoat07)
 - :computer: Backend is life because the XML isn't a programming language :trollface:
 
