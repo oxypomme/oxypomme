@@ -1,5 +1,3 @@
-## Yes.
-
 :mortar_board: I'm a French CS student.
 
 📝 I create things for myself or for school. Check out my [repositories](https://github.com/oxypomme?tab=repositories).
