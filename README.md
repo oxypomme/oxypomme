@@ -19,8 +19,6 @@
 - Reddit : [u/OxyTom](https://www.reddit.com/user/OxyTom)
 - <https://oxypomme.github.io/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxypomme&count_private=true&langs_count=3&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 Thanks to [AvaN0x](https://github.com/AvaN0x) for the readme template.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com/)
