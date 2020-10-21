@@ -12,6 +12,8 @@
 - :broken_heart: Hated dev : [WildGoat07](https://github.com/WildGoat07)
 - :computer: Backend is life because the XML isn't a programming language :trollface:
 
+[![oxypomme github stats](https://github-readme-stats.vercel.app/api?username=oxypomme&show_icons=true&icon_color=007ACC&count_private=true&hide_rank=true&hide_border=true&theme=dark&hide=stars,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Find me :
 
 - Twitter : [@OxyTom](https://twitter.com/OxyT0m8) (french only)
@@ -19,9 +21,8 @@
 - Reddit : [u/OxyTom](https://www.reddit.com/user/OxyTom)
 - <https://oxypomme.github.io/>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxypomme&count_private=true&langs_count=3&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks to [AvaN0x](https://github.com/AvaN0x) for the readme template.
 
-
-![oxypomme github stats](https://github-readme-stats.vercel.app/api?username=oxypomme&show_icons=true&count_private=true&hide_rank=true&hide_border=true&theme=dark&hide=stars,issues,prs)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com/)
