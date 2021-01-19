@@ -8,9 +8,8 @@
 - :metal: listener (like him :arrow_down:)
 - :heart: Favorite dev : [WildGoat07](https://github.com/WildGoat07)
 - :broken_heart: Hated dev : [WildGoat07](https://github.com/WildGoat07)
-- :computer: Backend is life because the XML isn't a programming language :trollface:
 
-[![oxypomme github stats](https://github-readme-stats.vercel.app/api?username=oxypomme&show_icons=true&icon_color=007ACC&count_private=true&hide_rank=true&hide_border=true&theme=dark&hide=stars,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![oxypomme github stats](https://github-readme-stats.vercel.app/api?username=oxypomme&show_icons=true&icon_color=007ACC&count_private=true&hide_rank=true&hide_border=true&hide=stars,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Find me :
 
