@@ -19,5 +19,3 @@
 - <https://oxypomme.github.io/>
 
 Thanks to [AvaN0x](https://github.com/AvaN0x) for the readme template.
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com/)
