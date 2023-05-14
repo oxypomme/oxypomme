@@ -1,6 +1,6 @@
-:mortar_board: I'm a French CS student.
+:office_worker: Currently working with the folks of [ezpaarse](https://github.com/ezpaarse-project) at [INIST CNRS](https://github.com/Inist-CNRS) !
 
-📝 I create things for myself or for school. Check out my [repositories](https://github.com/oxypomme?tab=repositories).
+📝 I create things for myself (or for school when I was ~~in that hell~~ still a student). Check out my [repositories](https://github.com/oxypomme?tab=repositories).
 
 ### Infos :
 
