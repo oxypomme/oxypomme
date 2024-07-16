@@ -13,9 +13,9 @@
 
 ### Find me :
 
-- Twitter : [@OxyTom](https://twitter.com/OxyT0m8) (french only)
-- Discord : OxyTom#1831 or [join my server](https://discord.com/invite/HgFJsP) !
+- Discord :
+  - @oxytom
+  - [![discord server invite](https://dcbadge.limes.pink/api/server/https://discord.gg/KayxN5fPqA)](https://discord.gg/KayxN5fPqA)
 - Reddit : [u/OxyTom](https://www.reddit.com/user/OxyTom)
-- <https://oxypomme.github.io/>
 
 Thanks to [AvaN0x](https://github.com/AvaN0x) for the readme template.
