@@ -1,4 +1,4 @@
-:office_worker: Currently working with the folks of [ezpaarse](https://github.com/ezpaarse-project) at [INIST CNRS](https://github.com/Inist-CNRS) !
+:office_worker: Currently working with the folks of [ezpaarse/ezmesure](https://github.com/ezpaarse-project) at [INIST CNRS](https://github.com/Inist-CNRS) (and with friends from [Couperin](https://www.couperin.org) too) !
 
 📝 I create things for myself (or for school when I was ~~in that hell~~ still a student). Check out my [repositories](https://github.com/oxypomme?tab=repositories).
 
