@@ -11,8 +11,8 @@
 
 ### Some stats :
 
-[![oxypomme github stats](https://github-readme-stats.vercel.app/api?username=oxypomme&show_icons=true&icon_color=58a6ff&bg_color=00000000&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_rank=true&theme=dark&hide=stars,issues&show=reviews,prs_merged&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxypomme&layout=donut&hide=php&hide_title=true&hide_border=true&theme=dark&bg_color=00000000&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+[![oxypomme github stats](https://github-readme-stats.vercel.app/api?username=oxypomme&show_icons=true&icon_color=58a6ff&bg_color=00000000&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_rank=true&theme=dark&hide=stars,issues&show=reviews,prs_merged&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Find me :
 
